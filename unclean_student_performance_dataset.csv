@@ -1,0 +1,21 @@
+Student_ID,Name,Age,Gender,Math_Score,Science_Score,History_Score,Study_Hours,Attendance_Rate,Preferred_Subject
+3001,Alice,18,F,88,90,85,12,0.98,Math
+3002,Bob,20,M,92,85,88,15,0.87,Science
+3003,Charlie,,M,-10,89,92,10,0.95,History
+3004,David,21,M,85,92,79,8,0.92,Math
+3005,Eve,Twenty-two,F,Eighty,Seventy-five,85,14,1.2,Science
+3006,Frank,20,Unknown,95,93,80,Nine,0.99,History
+3007,Grace,19,F,90,,94,16,0.96,Math
+3008,Hannah,18,F,88,84,90,13,,Science
+3009,Ian,21,M,84,79,Eighty-five,12,0.97,History
+3010,Jack,22,M,92,91,92,11,0.93,Math
+3011,Kevin,20,M,91,88,89,14,0.91,Science
+3012,Laura,Nineteen,F,85%,82,84,13,0.95,History
+3013,Michael,18,Male,89,87,88,12,Seventy-eight,Math
+3014,Nancy,22,F,83,80,77,10,0.89,Science
+3015,Oscar,,M,76,85,81,15,0.94,History
+3016,Paul,21,M,85,89,79,9 hours,0.92,Math
+3017,Quinn,20,Female,87,91,83,14,0.9,Science
+3018,Rachel,19,F,92,Eighty-six,85,11,0.96,History
+3019,Steve,21,M,88,83,87,10,Ninety-three,Math
+3020,Tina,22,F,999,88,89,13,0.94,Science
